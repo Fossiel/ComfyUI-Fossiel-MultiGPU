@@ -1,6 +1,8 @@
 # This is a fork of commit 57c7d3d from the official https://github.com/Fossiel/ComfyUI-Fossiel-MultiGPU
 This repo will not actively be maintained so don't report issues. It is a renamed version of the original 57c7d3d commit with the sole purpose of enabling the user to run both it and a clone from the original repo, side-by-side without conflicts.  
+
 ---
+
 # ComfyUI-MultiGPU v2: Universal .safetensors and GGUF Multi-GPU Distribution with DisTorch
 <p align="center">
   <img src="https://raw.githubusercontent.com/Fossiel/ComfyUI-Fossiel-MultiGPU/main/assets/distorch_average.png" width="600">
@@ -162,7 +164,7 @@ All workflows have been tested on a 2x 3090 + 1060ti linux setup, a 4070 win 11 
 
 ## Support
 
-If you encounter problems, please [open an issue](https://github.com/Fossiel/ComfyUI-Fossiel-MultiGPU/issues/new). Attach the workflow if possible.
+No support. Visit the original repo for support only on the latest version of the node pack.
 
 ## Credits
 
