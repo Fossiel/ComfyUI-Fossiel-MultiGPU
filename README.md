@@ -1,4 +1,4 @@
-# This is a fork of commit 57c7d3d from the official https://github.com/Fossiel/ComfyUI-Fossiel-MultiGPU
+# This is a fork of commit 57c7d3d from the official https://github.com/pollockjj/ComfyUI-MultiGPU
 This repo will not actively be maintained so don't report issues. It is a renamed version of the original 57c7d3d commit with the sole purpose of enabling the user to run both it and a clone from the original repo, side-by-side without conflicts.  
 
 ---
