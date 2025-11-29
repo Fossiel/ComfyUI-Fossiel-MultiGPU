@@ -164,7 +164,7 @@ All workflows have been tested on a 2x 3090 + 1060ti linux setup, a 4070 win 11 
 
 ## Support
 
-No support. Visit the original repo for support only on the latest version of the node pack.
+No support. Visit the original repo for support **ONLY** on the latest version of the node pack.
 
 ## Credits
 
